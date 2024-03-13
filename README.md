@@ -35,9 +35,4 @@ Connect with Tadele to collaborate on projects, exchange ideas, or engage in dis
 - [geemap](https://geemap.org) 
 - [leafmap](https://leafmap.org)
 
-## Demo
 
-This is the solar system
-![](https://i.pinimg.com/564x/b9/5b/c6/b95bc6c516c73f21252c6f2f4eb2760e.jpg)
-
-![](https://i.gifer.com/embedded/download/TFSQ.gif)
