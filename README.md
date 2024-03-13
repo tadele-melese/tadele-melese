@@ -24,8 +24,8 @@ Feel free to explore Tadele's GitHub profile to discover his projects, research,
 🌟 **Connect:**  
 Connect with Tadele to collaborate on projects, exchange ideas, or engage in discussions related to geospatial technology, machine learning, and beyond.
 
-[LinkedIn](https://www.linkedin.com/in/tadele-melese-7a45961ba) 
-[ORCID](https://orcid.org/0000-0002-4627-8193) 
+- [LinkedIn](https://www.linkedin.com/in/tadele-melese-7a45961ba)
+- [ORCID](https://orcid.org/0000-0002-4627-8193) 
 
 ---
 
