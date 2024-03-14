@@ -29,10 +29,9 @@ Connect with Tadele to collaborate on projects, exchange ideas, or engage in dis
 
 ---
 
-*Note: The above description is crafted to highlight Tadele's academic journey, expertise, and interests, tailored for posting on GitHub.*
 
 ## Projects
 - [geemap](https://geemap.org) 
 - [leafmap](https://leafmap.org)
 
-
+---
